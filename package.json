@@ -1,0 +1,23 @@
+{
+  "name": "practise-back-end-project",
+  "version": "1.0.0",
+  "main": "server.mjs",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon src/server.mjs"
+  },
+  "keywords": [
+    "Back",
+    "end",
+    "with",
+    "javascript"
+  ],
+  "author": "Hassan Nadeem",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^3.1.4",
+    "prettier": "^3.3.3"
+  }
+}
